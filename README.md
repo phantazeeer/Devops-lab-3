@@ -1,2 +1,2 @@
 # Devops-lab-3
-Laba did with Denchik
+Laba did with Denchik and me
